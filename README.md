@@ -1,5 +1,5 @@
-# Not much of a portfolio
-**More of a "my hobbies page"**
+
+**More of a "my ratings on some webtoon"**
 Learned
 - a bit of Tailwind classes 
 - some html tags
